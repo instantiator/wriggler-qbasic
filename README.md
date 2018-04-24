@@ -9,6 +9,8 @@ I guess there would be more to it, but it was 1998, I was 17, and I lost focus..
 
 Full playthrough video here: https://youtu.be/IMtjw2OJrKs
 
+It's tested and seems to be working with [DOSBox](https://www.dosbox.com/).
+
 ![Screenshot 1][qbasic-wriggler-1]
 ![Screenshot 2][qbasic-wriggler-2]
 ![Screenshot 3][qbasic-wriggler-3]
